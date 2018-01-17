@@ -56,5 +56,3 @@ setup_twitter_oauth(ckey, csecret, atoken, asecret)
 
 tweet(tweet.text, media = "tmp.jpg")
 
-
-#cron file every 5 hours
